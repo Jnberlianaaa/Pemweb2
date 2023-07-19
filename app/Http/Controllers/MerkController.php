@@ -11,3 +11,9 @@ class MerkController extends Controller
         return view('pages.merk.index');
     }
 }
+
+//memproses registrasi data
+function register(request $request)
+{
+
+}
